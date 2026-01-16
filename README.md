@@ -1,7 +1,6 @@
 # Fer.al Offline Mode
 This mod adds to Emuferal (OG Fer.al) and Centuria an offline mode, which was originally added to earlier versions of Emuferal.
 Centuria is a work-in-progress server emulator for the now-defunct MMORPG Fer.al. The main server project can be found [here](https://github.com/CPeers1/Centuria). Centuria is developed by a group of developers from the Fer.ever discord. The software was originally released by the AerialWorks Software Foundation (SkySwimmer's small organization) but is now owned [Owenvii](https://github.com/CPeers1).
-
 <br/>
 
 # Building the client mods
