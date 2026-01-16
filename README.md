@@ -1,6 +1,5 @@
-[![FTL Loader Build (Win64)](https://github.com/SkySwimmer/Centuria-Modding/actions/workflows/win64-build.yml/badge.svg)](https://github.com/SkySwimmer/Centuria-Modding/actions/workflows/win64-build.yml)  [![FTL Loader Build (OSX)](https://github.com/SkySwimmer/Centuria-Modding/actions/workflows/osx-build.yml/badge.svg)](https://github.com/SkySwimmer/Centuria-Modding/actions/workflows/osx-build.yml) 
 
-# The Centuria Modding Project
+# Fer.al Offline Mode
 This is the repository for the official [Centuria](https://github.com/CPeers1/Centuria) modding project. This repository contains client modding code and server modules designed to patch up and modify parts of the original game.
 
 Centuria is a work-in-progress server emulator for the now-defunct MMORPG Fer.al. The main server project can be found [here](https://github.com/CPeers1/Centuria). Centuria is developed by a group of developers from the Fer.ever discord. The software was originally released by the AerialWorks Software Foundation (SkySwimmer's small organization) but is now owned [Owenvii](https://github.com/CPeers1).
